@@ -18,5 +18,5 @@
         <img aling="center" alt="Mysql"src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
         <img aling="center" alt="Postgres"src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div><br>
-Amante da tecnologia e sempre disposto a aprender coisas novas com os mais experientes no ramo.
+Amante da tecnologia, e sempre disposto a aprender coisas novas com os mais experientes no ramo.
 
