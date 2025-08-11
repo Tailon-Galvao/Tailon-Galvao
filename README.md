@@ -1,6 +1,6 @@
 ### Olá eu sou o Tailon Galvão ✌️
 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5534992755133?text=Ol%C3%A1%2C+em+que+posso+ser+%C3%BAtil%3F+%28Hi%2C+how+can+I+be+of+help%3F%29)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tailongalvao/)
 
 
