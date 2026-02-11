@@ -3,9 +3,7 @@
 ![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tailongalvao/)
 
-
-![Tailon GitHub stats](https://github-readme-stats.vercel.app/api?username=Tailon-Galvao&show_icons=true&theme=dracula)
-
+<!-- ![Tailon GitHub stats](https://github-readme-stats.vercel.app/api?username=Tailon-Galvao&show_icons=true&theme=dracula) -->
 
 ### Tecnologias utilizadas no meu dia a dia
 <div style="display: inline_block"><br/>
@@ -17,7 +15,7 @@
         <img aling="center" alt="Bootstrap"src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
         <img aling="center" alt="Mysql"src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
         <img aling="center" alt="Postgres"src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-        <img aling="center" alt="Postgres"src="https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+        <img align="center" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB">
 </div><br>
 Amante da tecnologia, e sempre disposto a aprender coisas novas com os mais experientes no ramo.
 
